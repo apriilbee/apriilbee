@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="25"/>
 
 
-I'm <b>April</b>, and I'm a backend software engineer based in Melbourne, Australia. 
+I'm <b>April</b>, a backend software engineer based in Melbourne, Australia. 
 
 I work mainly with Java, Spring Boot, and cloud-native microservices, building backend systems for SaaS products. Most of my work sits around APIs, integrations, identity, data, and making systems easier to maintain and scale. 
 
